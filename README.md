@@ -10,3 +10,5 @@
 Open zeppelin version 6.14.8
 
 Star Token is the token name with "ST" as the symbol. 
+
+Did not upload the .secret folder to keep private keys safe
